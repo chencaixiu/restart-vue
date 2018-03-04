@@ -1,0 +1,119 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [{
+      "id": "1001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/72/f07f760d5ef64502.jpg_640x200_4e2ade5e.jpg",
+      "link": "/list"
+    },{
+      "id": "1002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/e3/62ce7362ca051d02.jpg_640x200_6db551b7.jpg",
+      "link": "/list"
+    },{
+      "id": "1003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg",
+      "link": "/list"
+    }],
+    "iconList": [{
+      "id": "1001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+      "title": "景点门票",
+      "link": "/list"
+    },{
+      "id": "1002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png",
+      "title": "故宫",
+      "link": "/list"
+    },{
+    "swiperList": [{
+      "id": "1001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/73/d1ba8edc561d1f02.jpg_640x200_a747973f.jpg",
+      "link": "/list"   
+    },{
+      "id": "1002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/e3/62ce7362ca051d02.jpg_640x200_6db551b7.jpg",
+      "link": "/list"
+    },{
+      "id": "1003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg",
+      "link": "/list"
+    }],
+      "id": "1003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
+      "title": "滑雪季",
+      "link": "/list"
+    },{
+      "id": "1004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
+      "title": "泡温泉",
+      "link": "/list"
+    },{
+      "id": "1005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+      "title": "一日游",
+      "link": "/list"
+    },{
+      "id": "1006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+      "title": "动植物园",
+      "link": "/list"
+    },{
+      "id": "1007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+      "title": "游乐园",
+      "link": "/list"
+    },{
+      "id": "1008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
+      "title": "演出",
+      "link": "/list"
+    },{
+      "id": "1010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/1c/a8a8d9023a814c02.png",
+      "title": "名胜古迹",
+      "link": "/list"
+    },{
+      "id": "1011",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/cd/07f33cc087f18d02.png",
+      "title": "自然风光",
+      "link": "/list"
+    },{
+      "id": "1012",
+      "imgUrl": "https://img1.qunarzz.com/piao/fusion/1602/f2/71eb19f77e3f21f7.png",
+      "title": "周边游",
+      "link": "/list"
+    }],
+    "sightsList": [{
+      "id": "1001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "title": "故宫",
+      "introduce": "东方明珠宫殿建筑代表，世界宫殿建筑典范",
+      "price": "20"
+    },{
+      "id": "1002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_140x140_97813766.jpg",
+      "title": "八达岭长城",
+      "introduce": "不到长城非好汉",
+      "price": "25"
+    },{
+      "id": "1003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+      "title": "天安门广场",
+      "introduce": "我爱北京天安门，天安门上太阳升",
+      "price": "20"
+    },{
+      "id": "1004",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
+      "title": "南山滑雪场",
+      "introduce": "北京专业级滑雪胜地",
+      "price": "49"
+    },{
+      "id": "1005",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_140x140_fb2d2fd3.jpg",
+      "title": "圆明园",
+      "introduce": "追忆昔日万园之园",
+      "price": "25"
+    }]
+  }
+}
