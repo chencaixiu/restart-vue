@@ -7,7 +7,7 @@
     </div>
     <router-link to="/city">
       <div class="city">
-        北京
+        {{$store.getters.doubleCity}}
       </div>
     </router-link>
   </div>

@@ -6,6 +6,7 @@ import router from './router'
 import Fastclick from 'fastclick'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import VueLazyload from 'vue-lazyload'
+import store from './store/store'
 import '@/assets/css/reset.css'
 import '@/assets/css/border.css'
 import '@/assets/iconfont/iconfont.css'
@@ -25,6 +26,7 @@ Vue.use(VueLazyload, {
 new Vue({
   el: '#app',
   router,
+  store,
   components: { App },
   template: '<App/>'
 })

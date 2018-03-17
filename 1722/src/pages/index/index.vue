@@ -30,7 +30,7 @@ export default {
   },
   methods: {
     getIndexData () {
-      axios.get('api/index.json')
+      axios.get('api/index.json?city=' + this.$store.state.city)
         .then(this.handleGetDataSucc.bind(this))
         .catch(this.handleErro.bind(this))
     },
@@ -39,6 +39,10 @@ export default {
       this.swiperList = data.swiperList
       this.iconList = data.iconList
       this.sightsList = data.sightsList
+      if (!this.$store.state.city) {
+        // this.$store.commit('changeCity', data.city)
+        this.$store.dispatch('DelayThirdSeconds', data.city)
+      }
     },
     handleErro () {
       console.log(false)

@@ -29,12 +29,11 @@ export default {
   },
   methods: {
     getListInfo () {
-      axios.get('api/city.json')
+      axios.get('api/city.json?city=' + this.$store.state.city)
         .then(this.handleDataSucc.bind(this))
         .catch(this.handleDataErro.bind(this))
     },
     handleDataSucc (res) {
-      console.log(res.data.data.list)
       res && (res = res.data)
       if (res && res.data) {
         res.data.hotCity && (this.hotCity = res.data.hotCity)
@@ -63,5 +62,6 @@ export default {
     right: 0
     bottom: 0
     .list
+      overflow: hidden
       flex: 1
 </style>
